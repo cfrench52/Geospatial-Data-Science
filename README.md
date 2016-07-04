@@ -1,2 +1,2 @@
 # Geospatial-Data-Science
-Knowledge share repository geospatial data engineering and data analysis research
+Knowledge share repository for geospatial data engineering and data analysis research
